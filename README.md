@@ -1,1 +1,1 @@
-# Data-upadating-and-fetching-form-db
+# Data-updating-and-fetching-from-db
